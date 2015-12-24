@@ -1,4 +1,5 @@
-Project: Confidential Photo Detection on IOS
+Project: Confidential Photo Detection on IOS.
+
 Teammember: Chang Chen (cc3757), Changchang Wang (cw2826), Liang Wu (lw2589), Jialu Zhong (jz2612)
 
 4 components of the project are included in the 4 directories.
