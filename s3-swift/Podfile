@@ -1,0 +1,6 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+pod 'AWSCore'
+pod 'AWSEC2'
+pod 'AWSS3'
+pod 'AWSCognito'
